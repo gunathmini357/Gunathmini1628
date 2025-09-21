@@ -65,7 +65,7 @@ through the formation to the wellbore, the pressure in the formation at the well
 * Because the fluid is incompressible, the flow rate q must be constant at all radii. Due to the steady-state flowing condition, the 
 pressure profile around the wellbore is maintained constant with time.  
 * At any point in the reservoir the cross-sectional area across which flow occurs will be the surface area of a cylinder, which is 2𝜋𝑟ℎ, or:  
-#### v = q/Ar = q/2πrh = o.001127kdp/𝜇dr
+#### v = q/Ar = q/2πrh = 0.001127kdp/𝜇dr
 * The flow rate for a crude oil system is customarily expressed in surface units, i.e., stock-tank 
 barrels (STB), rather than reservoir units. 
 ▪ Using the symbol 𝑄𝑜 to represent the oil flow as expressed in STB/day, then:
