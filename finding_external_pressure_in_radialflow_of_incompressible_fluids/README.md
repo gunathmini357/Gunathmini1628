@@ -2,7 +2,7 @@
 ## Types of Flow Regimes 
 * Steady-state flow-.The flow regime is identified as a steady-state flow if the pressure at every location in the reservoir remains constant, i.e., does not change with time.
 * Unsteady-state Flow-The unsteady-state flow (frequently called transient flow) is defined as the fluid flowing condition at which the rate of change of pressure with respect to time at any position in the reservoir is not zero or constant. This definition suggests that the pressure derivative with respect to time is essentially a function of both position i and time t,
-* Pseudosteady state Flow-when the pressure at different locations in the reservoir is declining linearly as a function of time, i.e., at a constant declining rate, the flowing condition is characterized as the pseudo-steady-state flow. Mathematically, this definition states that the rate of change of pressure with respect to time at everyIt should be pointed out that the pseudo-steady state flow is commonly referred to as semi-steady-state flow and quasi-steady state flow. position is constant.
+* Pseudosteady state Flow-when the pressure at different locations in the reservoir is declining linearly as a function of time, i.e., at a constant declining rate, the flowing condition is characterized as the pseudo-steady-state flow. Mathematically, this definition states that the rate of change of pressure with respect to time at every position is constant, or It should be pointed out that the pseudo-steady state flow is commonly referred to as semi-steady-state flow and quasi-steady state flow. position is constant.
 
 ## Reservoir Fluid Types according to Compressibility 
 * Incompressible Fluids-it is defined as the fluid whose volume (or density) does not change with pressure. 
