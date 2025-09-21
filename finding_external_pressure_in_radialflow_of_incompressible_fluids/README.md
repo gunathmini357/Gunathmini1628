@@ -55,7 +55,7 @@ q=0.001127 𝑘𝐴 (𝑝1−𝑝2)/𝜇L
  * L= distance, ft
  * A= cross-sectional area, 𝑓𝑡2
 
-# let us derive the formula for Rdial flow of incompressible fluids-steadt satte condition(darcy law assumptions)
+# let us derive the formula for Radial flow of incompressible fluids-steady state condition(darcy law assumptions)
 * In a radial flow system, all fluids move toward the producing well from all directions. 
 Before flow can take place, however, a pressure differential must exist. 
 * Thus, if a well is to produce oil, which implies a flow of fluids
