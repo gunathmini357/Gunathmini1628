@@ -46,7 +46,7 @@ Separating the variables of eq:1 and integrating over the length of the linear s
 * It is desirable to express the above relationship in customary field
 units,that is
 
-q=0.001127 𝑘𝐴 (𝑝1−𝑝2)/𝐿
+q=0.001127 𝑘𝐴 (𝑝1−𝑝2)/𝜇L
 
  Where q= flow rate, bbl/day
  * k= absolute permeability, md
